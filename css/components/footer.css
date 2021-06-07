@@ -1,0 +1,24 @@
+.footer{
+    padding: 100px 0 150px;
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+    font-weight: 500;
+}
+.footer__title{
+    font-size: 36px;
+    margin-bottom: 60px;
+}
+.footer__name--gray{
+    color: #999999;
+    margin: 10px 0 25px;
+}
+.footer__name--orange{
+    color: #F7654A;
+}
+.footer span{
+    display: block;
+}
+.footer__mail{
+    padding-top: 12px;
+}

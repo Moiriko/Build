@@ -1,0 +1,38 @@
+.old{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    z-index: 1;
+    margin-top: -150px;
+}
+.old .container{
+    background: #F7F7F7;
+    display: flex;
+    justify-content: center;
+    padding: 57px 0;
+}
+.old .col-9{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;  
+}
+.old__item{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.old span{
+    display: block;
+}
+.namber{
+    color: #F7654A;
+    font-size: 72px;
+}
+.year{
+    font-size: 36px;
+    color: #000000;
+}
+.market{
+    font-size: 18px;
+    color: #999999;
+}

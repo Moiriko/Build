@@ -1,0 +1,22 @@
+@media screen and (max-width: 375px) {
+  body,
+  html {
+    box-sizing: border-box;
+  }
+
+  .container {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .col-9,
+  .col-8,
+  .col-6,
+  .col-5,
+  .col-4 {
+    width: 100%;
+  }
+  .col-3,
+  .col-3 {
+    width: 50%;
+  }
+}

@@ -1,0 +1,37 @@
+.project{
+    color: #404149;
+    padding: 100px 0 150px;
+    z-index: -1;
+}
+.project__row{
+    display: flex;
+    justify-content: space-between;  
+    margin: auto;
+}
+.project__content{
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+.project__title{
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 60px
+}
+.project__line{
+    background: #F7654A;
+    width: 55px;
+    height: 6px;
+    margin: 45px 0 15px;
+}
+.project__subtitle{
+    font-size: 24px;
+}
+.project__text{
+    font-family: "Open Sans";
+    font-size: 16px;
+    color: #999999;
+    margin-top: 20px;
+    line-height: 22px; 
+}

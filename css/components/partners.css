@@ -1,0 +1,16 @@
+.partners{
+    background: #404149;
+    padding: 100px 0;
+    color: #fff;
+}
+.partners__title{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 36px;
+    margin-bottom: 60px;
+}
+.partners__row{
+    display: flex;
+    justify-content: space-between;
+}

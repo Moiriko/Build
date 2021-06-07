@@ -1,0 +1,24 @@
+header{
+    position: absolute;
+    width: 100%;
+}
+.header__row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+.header__burger{
+    background: #F7654A;
+    max-width: 50px;
+    max-height: 50px; 
+}
+
+.header__logo{
+    transition: 0.4s;
+    
+}
+.header__logo:hover{
+    transform: scale(1.2);
+    transform: rotate(360deg);
+}

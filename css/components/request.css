@@ -1,0 +1,38 @@
+.request{
+    background: #F7654A;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 30px 0 45px;
+}
+.request__title{
+    font-size: 48px;
+    font-weight: bold;
+}
+.request__text{
+    font-weight: bold;
+    font-size: 24px;
+}
+.request__button--item{
+    background: #fff;
+    padding: 14px 30px;   
+    border:none;
+    outline: none;
+    transition: 0.6s;
+}
+.request__button{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.request__button--text{
+    padding-left: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+}
+.request__button--item:hover{
+    cursor: pointer;
+    background: #F7654A;
+    transform: scale(1.1);
+    border: 1px solid #000;
+}
